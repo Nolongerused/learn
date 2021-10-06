@@ -1,2 +1,2 @@
-print("The first line code")
-print('-*'*10)
+n = 0xf1
+print(~n)
